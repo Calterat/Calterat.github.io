@@ -1,0 +1,25 @@
+header {
+    text-align: center;
+    background-color: tomato;
+}
+
+#student {
+    float: left;
+}
+
+#contact {
+    float: right;
+}
+
+#student p {
+    float: left;
+    padding: 10px 40px;
+}
+
+#student h2 {
+    padding: 0px 40px;
+}
+
+#contact ul {
+    line-height: 1.5;
+}
