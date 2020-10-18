@@ -1,4 +1,4 @@
-# Calterat.github.io
+# calterat.github.io
 
 Here is a small webpage and some styles reflecting what was learned in lesson 3 and 4.
 
